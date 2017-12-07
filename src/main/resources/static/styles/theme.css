@@ -3,11 +3,11 @@ img {
 }
 
 .header, .footer, body {
-    background-color: #1E392A;
+    background-color: #4484CE;
 }
 
 .footer {
-    color: #828081;
+    color: #F9CF00;
 }
 
 .content {
@@ -15,47 +15,47 @@ img {
 }
 
 .navbar-brand {
-    color: #E9C893 !important;
+    color: #D9D9D9 !important;
 }
 
 .nav-link, .btn-outline-success {
-    color: #3CC47C !important;
-    border-color: #3CC47C !important;
+    color: #F9CF00 !important;
+    border-color: #F9CF00 !important;
 }
 
 .btn-outline-success:hover {
-    background-color: #E9C893 !important;
-    border-color: #1E392A !important;
-    color: #1E392A !important;
+    background-color: #D9D9D9 !important;
+    border-color: #4484CE !important;
+    color: #4484CE !important;
 }
 
 .dropdown-menu {
-    background-color: #E9C893;
+    background-color: #D9D9D9;
 }
 
 .dropdown-menu .dropdown-item {
-    color: #1E392A;
+    color: #4484CE;
 }
 
 .dropdown-menu .dropdown-item:hover {
-    background-color: #1E392A;
-    color: #3CC47C;
+    background-color: #4484CE;
+    color: #F9CF00;
 }
 
 .dropdown-menu .dropdown-divider {
-    border-color: #828081;
+    border-color: #F9CF00;
 }
 
 .list-group-item {
-    border-color: #1E392A;
+    border-color: #4484CE;
 }
 
 .modal-header {
-    background-color: #1E392A;
-    color: #3CC47C;
+    background-color: #4484CE;
+    color: #F9CF00;
 }
 
 .modal-header .bootbox-close-button {
-    color: #E9C893;
+    color: #D9D9D9;
     opacity: 1.0;
 }

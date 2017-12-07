@@ -6,7 +6,7 @@
 .pane {
     margin: 0px;
     padding: 5px;
-    border: 1px solid #1E392A;
+    border: 1px solid #4484CE;
     border-radius: .25rem;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .product:hover {
-    background-color: #1E392A;
+    background-color: #4484CE;
 }
 
 .product:hover span {
